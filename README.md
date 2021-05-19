@@ -1,6 +1,6 @@
 ## This is for the Testing...
 
-## Database Name :
+## Database Name & table name :
 ![image](https://user-images.githubusercontent.com/62868878/118782067-56cb1400-b8ab-11eb-8f92-0ba421a551c8.png)
 ## Posts DB:
 ![image](https://user-images.githubusercontent.com/62868878/118782154-6c403e00-b8ab-11eb-8257-62a08bd68c4e.png)
